@@ -1,0 +1,25 @@
+{
+  "name": "node_na_satu",
+  "version": "1.0.0",
+  "description": "Just a simple Node Webapp Test",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitman666/webapp-node-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hitman666/webapp-node-test/issues"
+  },
+  "homepage": "https://github.com/Hitman666/webapp-node-test#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "nodemon": "^1.18.11"
+  }
+}
